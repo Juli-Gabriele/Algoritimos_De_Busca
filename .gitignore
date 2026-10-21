@@ -1,0 +1,29 @@
+# Pastas de build
+build/
+cmake-build-*/
+out/
+
+# CLion / IDEs
+.idea/
+.vscode/
+*.iml
+
+# Binários e objetos
+*.o
+*.obj
+*.exe
+*.a
+*.lib
+*.out
+
+# CMake gerado
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+Makefile
+
+# Sistema
+.DS_Store
+Thumbs.db
